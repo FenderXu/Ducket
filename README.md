@@ -1,7 +1,7 @@
 # Ducket BOT
 Ducket BOT
 
-- Register Here : [Ducket Lobby](https://app.ducket.club/?invite=FenderXu)
+- Register Here : [Ducket Lobby](https://app.ducket.club/?invite=FENDERXU)
 - Sign In With Solana Wallet
 - Connect X & DC Account
 
